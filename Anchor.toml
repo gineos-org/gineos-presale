@@ -10,12 +10,14 @@ gineos_presale = "5fafMD9vnGUFY9oSwJaavHWWq5hovW1MNih1xTnvWGq8"
 gineos_presale = "5fafMD9vnGUFY9oSwJaavHWWq5hovW1MNih1xTnvWGq8"
 [programs.testnet]
 gineos_presale = "5fafMD9vnGUFY9oSwJaavHWWq5hovW1MNih1xTnvWGq8"
+[programs.mainnet]
+gineos_presale = "5fafMD9vnGUFY9oSwJaavHWWq5hovW1MNih1xTnvWGq8"
 
 [registry]
-url = "https://api.apr.dev"
+url = "https://api.testnet.solana.com"
 
 [provider]
-cluster = "devnet"
+cluster = "testnet"
 wallet = './wallet/devdxeX3u8KKXLbXbQmCJUBcih3mi9uwReetoy7pweA.json'
 
 [scripts]
