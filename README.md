@@ -1,2 +1,3 @@
-# gineos-presale
-Gineos Network Pre-Sale Program
+### Gineos Network Pre-Sale Programs
+
+Gineos Network smart contract for pre-sale of $GINE TOKEN
